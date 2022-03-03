@@ -8,4 +8,4 @@ To demonstrate what attackers can do by exploiting XSS vulnerabilities, we used 
 • HTTP GET and POST requests
 • JavaScript and Ajax
 
-The details about the tasks are described in CSE 406 Web Security Assignment.
+The details about the tasks are described in [CSE 406 Web Security Assignment](https://github.com/Shukti042/Computer-Security/blob/master/Cross-Site%20Scripting%20(XSS)%20Attack/CSE%20406%20Web%20Security%20Assignment.pdf).
