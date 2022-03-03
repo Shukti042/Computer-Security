@@ -17,7 +17,7 @@ The final round is slightly different from the others. Implementation details ca
 
 
 
-<img src="G:\CSE\CSE 406\Git\AES\AES Block Diagram.png" style="zoom:80%;" />
+<img src="https://github.com/Shukti042/Computer-Security/blob/master/AES/AES%20Block%20Diagram.png" />
 
 
 
