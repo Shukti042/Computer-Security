@@ -17,7 +17,7 @@ The final round is slightly different from the others. Implementation details ca
 
 
 
-<img src="C:\Users\Shukti\AppData\Roaming\Typora\typora-user-images\image-20220303111122267.png" alt="image-20220303111122267" style="zoom:80%;" />
+<img src="G:\CSE\CSE 406\Git\AES\AES Block Diagram.png" style="zoom:80%;" />
 
 
 
