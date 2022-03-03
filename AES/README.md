@@ -18,8 +18,11 @@ The final round is slightly different from the others. Implementation details ca
 
 <p align="center">
   <img src="https://github.com/Shukti042/Computer-Security/blob/master/AES/AES%20Block%20Diagram.png" style="zoom:60%;" />
+</p>
+<p align="center">
   <u>**Figure:** **Block Diagram of AES**</u>
 </p>
+
 											
 
 
