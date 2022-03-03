@@ -16,12 +16,11 @@ Each round of Algorithm consists of four steps:
 The final round is slightly different from the others. Implementation details can be found in the presentation slide shared in the sessional class.
 
 
-
-<img src="https://github.com/Shukti042/Computer-Security/blob/master/AES/AES%20Block%20Diagram.png" />
-
-
-
-​																		<u>**Figure:** **Block Diagram of AES**</u>
+<p align="center">
+  <img src="https://github.com/Shukti042/Computer-Security/blob/master/AES/AES%20Block%20Diagram.png" style="zoom:60%;" />
+  <u>**Figure:** **Block Diagram of AES**</u>
+</p>
+											
 
 
 
